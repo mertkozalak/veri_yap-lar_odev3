@@ -8,3 +8,6 @@
 * Root=7 
 
 ![Binary Search Tree Projesi](/7.png)
+
+
+# patika hesabım :https://app.patika.dev/mertkozalak
